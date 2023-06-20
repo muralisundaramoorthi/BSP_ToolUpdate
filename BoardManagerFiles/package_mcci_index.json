@@ -1919,6 +1919,65 @@
           ]
         },
         {
+          "name": "MCCI Catena STM32 Boards",
+          "architecture": "stm32",
+          "version": "3.0.9",
+          "category": "Contributed",
+          "help": {
+            "online": "https://forum.mcci.io"
+          },
+          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.9.tar.gz",
+          "archiveFileName": "Arduino_Core_STM32-3_0_5.tar.gz",
+          "checksum": "SHA-256:9d928936276546620a88b1654f975343c94b449d259f65cc45da4b7ac59ad433",
+          "size": "5993777",
+          "boards": [
+            {
+              "name": "Catena4551"
+            },
+            {
+              "name": "Catena4610"
+            },
+            {
+              "name": "Catena4611"
+            },
+            {
+              "name": "Catena4612"
+            },
+            {
+              "name": "Catena4617"
+            },
+            {
+              "name": "Catena4618"
+            },
+            {
+              "name": "Catena4630"
+            },
+            {
+              "name": "Catena4801"
+            },
+            {
+              "name": "Catena4802"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "version": "10.3-2021.10",
+              "name": "arm-none-eabi-gcc",
+              "packager": "mcci"
+            },
+            {
+              "version": "2018.3.23-mcci",
+              "name": "STM32Tools",
+              "packager": "mcci"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            }
+          ]
+        },
+        {
           "name": "MCCI Connection Exerciser ",
           "architecture": "avr",
           "version": "1.0.0",
@@ -2110,6 +2169,40 @@
               "checksum": "SHA-256:f605b5f23ca898e9b8b665be208510a54a6e9fdd0fa5bfc9592002f6e7431208",
               "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-aarch64-linux.tar",
               "url": "https://github.com/muralisundaramoorthi/PROJECT_Tool_Upadate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-10.3-2021.10-aarch64-linux.tar.bz2",
+              "host": "i686-pc-linux-gnu"
+            }
+          ],
+          "version": "10.3-2021.10",
+          "name": "arm-none-eabi-gcc"
+        },
+        {
+          "systems": [
+            {
+              "size": "94146952",
+              "checksum": "SHA-256:37a19a4b987aeb077c29bcc3854e9cc58210292ab08eb990c4ef945a59d86c0d",
+              "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
+              "url": "https://github.com/mcci-catena/arduino-boards/raw/master/BoardManagerFiles/tools/gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
+              "host": "i686-mingw32"
+            },
+            {
+              "size": "88715718",
+              "checksum": "SHA-256:0305683c9a7cd368c6cff891883979982f3917ae6edc38fd64f920c188ad4972",
+              "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-mac.tar.bz2",
+              "url": "https://github.com/mcci-catena/arduino-boards/raw/master/BoardManagerFiles/tools/gcc-arm-none-eabi-6-2017-q2-update-mac.tar.bz2",
+              "host": "x86_64-apple-darwin"
+            },
+            {
+              "size": "83912523",
+              "checksum": "SHA-256:81c5b83fd134a34a2f1dd1bd93ece223d4a511134932d41e5dd54a00943c0402",
+              "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-linux64.tar.bz2",
+              "url": "https://github.com/mcci-catena/arduino-boards/raw/master/BoardManagerFiles/tools/gcc-arm-none-eabi-6-2017-q2-update-linux64.tar.bz2",
+              "host": "x86_64-pc-linux-gnu"
+            },
+            {
+              "size": "82511589",
+              "checksum": "SHA-256:8384a1200b770b34d3a31f41b4125bb9c7707fa69ecaf8b9f3afe9b2b01fa98c",
+              "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-linux32.tar.bz2",
+              "url": "https://github.com/mcci-catena/arduino-boards/raw/master/BoardManagerFiles/tools/gcc-arm-none-eabi-6-2017-q2-update-linux32.tar.bz2",
               "host": "i686-pc-linux-gnu"
             }
           ],
