@@ -1921,7 +1921,7 @@
         {
           "name": "MCCI Catena STM32 Boards",
           "architecture": "stm32",
-          "version": "3.1.0",
+          "version": "3.1.0_PreTest",
           "category": "Contributed",
           "help": {
             "online": "https://forum.mcci.io"
