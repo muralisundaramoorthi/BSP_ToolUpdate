@@ -1921,15 +1921,15 @@
         {
           "name": "MCCI Catena STM32 Boards",
           "architecture": "stm32",
-          "version": "3.1.0_PreTest",
+          "version": "3.1.0",
           "category": "Contributed",
           "help": {
             "online": "https://forum.mcci.io"
           },
-          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.0.5.tar.gz",
-          "archiveFileName": "Arduino_Core_STM32-3_0_5.tar.gz",
-          "checksum": "SHA-256:9d928936276546620a88b1654f975343c94b449d259f65cc45da4b7ac59ad433",
-          "size": "5993777",
+          "url": "https://github.com/mcci-catena/Arduino_Core_STM32/archive/refs/tags/v3.1.0.tar.gz",
+          "archiveFileName": "Arduino_Core_STM32-3.1.0.tar",
+          "checksum": "SHA-256:022aa9d499a4ea6cb5ba5f41fe8ff2e6f146f8766dea874898517cca9ff9220c",
+          "size": "7466882",
           "boards": [
             {
               "name": "Catena4551"
@@ -2144,40 +2144,6 @@
         {
           "systems": [
             {
-              "size": "200578763",
-              "checksum": "SHA-256:d287439b3090843f3f4e29c7c41f81d958a5323aecefcf705c203bfd8ae3f2e7",
-              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-win32",
-              "url": "https://github.com/muralisundaramoorthi/PROJECT_Tool_Upadate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-10.3-2021.10-win32.zip",
-              "host": "i686-mingw32"
-            },
-            {
-              "size": "158961466",
-              "checksum": "SHA-256:fb613dacb25149f140f73fe9ff6c380bb43328e6bf813473986e9127e2bc283b",
-              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-mac.tar",
-              "url": "https://github.com/muralisundaramoorthi/PROJECT_Tool_Upadate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-10.3-2021.10-mac.tar.bz2",
-              "host": "x86_64-apple-darwin"
-            },
-            {
-              "size": "157089706",
-              "checksum": "SHA-256:97dbb4f019ad1650b732faffcc881689cedc14e2b7ee863d390e0a41ef16c9a3",
-              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-x86_64-linux.tar",
-              "url": "https://github.com/muralisundaramoorthi/PROJECT_Tool_Upadate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-10.3-2021.10-x86_64-linux.tar.bz2",
-              "host": "x86_64-pc-linux-gnu"
-            },
-            {
-              "size": "168772350",
-              "checksum": "SHA-256:f605b5f23ca898e9b8b665be208510a54a6e9fdd0fa5bfc9592002f6e7431208",
-              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-aarch64-linux.tar",
-              "url": "https://github.com/muralisundaramoorthi/PROJECT_Tool_Upadate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-10.3-2021.10-aarch64-linux.tar.bz2",
-              "host": "i686-pc-linux-gnu"
-            }
-          ],
-          "version": "10.3-2021.10",
-          "name": "arm-none-eabi-gcc"
-        },
-        {
-          "systems": [
-            {
               "size": "94146952",
               "checksum": "SHA-256:37a19a4b987aeb077c29bcc3854e9cc58210292ab08eb990c4ef945a59d86c0d",
               "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
@@ -2207,6 +2173,40 @@
             }
           ],
           "version": "6-2017-q2-update",
+          "name": "arm-none-eabi-gcc"
+        },
+        {
+          "systems": [
+            {
+              "size": "200578763",
+              "checksum": "SHA-256:d287439b3090843f3f4e29c7c41f81d958a5323aecefcf705c203bfd8ae3f2e7",
+              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-win32",
+              "url": "https://github.com/muralisundaramoorthi/PROJECT_Tool_Upadate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-10.3-2021.10-win32.zip",
+              "host": "i686-mingw32"
+            },
+            {
+              "size": "158961466",
+              "checksum": "SHA-256:fb613dacb25149f140f73fe9ff6c380bb43328e6bf813473986e9127e2bc283b",
+              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-mac.tar",
+              "url": "https://github.com/muralisundaramoorthi/PROJECT_Tool_Upadate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-10.3-2021.10-mac.tar.bz2",
+              "host": "x86_64-apple-darwin"
+            },
+            {
+              "size": "157089706",
+              "checksum": "SHA-256:97dbb4f019ad1650b732faffcc881689cedc14e2b7ee863d390e0a41ef16c9a3",
+              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-x86_64-linux.tar",
+              "url": "https://github.com/muralisundaramoorthi/PROJECT_Tool_Upadate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-10.3-2021.10-x86_64-linux.tar.bz2",
+              "host": "x86_64-pc-linux-gnu"
+            },
+            {
+              "size": "168772350",
+              "checksum": "SHA-256:f605b5f23ca898e9b8b665be208510a54a6e9fdd0fa5bfc9592002f6e7431208",
+              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-aarch64-linux.tar",
+              "url": "https://github.com/muralisundaramoorthi/PROJECT_Tool_Upadate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-10.3-2021.10-aarch64-linux.tar.bz2",
+              "host": "i686-pc-linux-gnu"
+            }
+          ],
+          "version": "10.3-2021.10",
           "name": "arm-none-eabi-gcc"
         },
         {
