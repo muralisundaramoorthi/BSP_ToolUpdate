@@ -2178,10 +2178,10 @@
         {
           "systems": [
             {
-              "size": "365362047",
-              "checksum": "SHA-256:9f5f5492447212001aa8b708e237cdfecb1296ba0f1c699e2aa2fd87249e5b00",
-              "archiveFileName": "arm-gnu-toolchain-12.2.mpacbti-rel1-mingw-w64-i686-arm-none-eabi",
-              "url": "https://github.com/muralisundaramoorthi/BSP_ToolUpdate/raw/main/BoardManagerFiles/tools/arm-gnu-toolchain-12.2.mpacbti-rel1-mingw-w64-i686-arm-none-eabi.zip",
+              "size": "328508139",
+              "checksum": "SHA-256:ad1427496cde9bbe7604bc448ec6e115c6538e04af1c8275795ebb1c2b7b2830",
+              "archiveFileName": "arm-gnu-toolchain-12.2.rel1-mingw-w64-i686-arm-none-eabi",
+              "url": "https://github.com/muralisundaramoorthi/BSP_ToolUpdate/raw/main/BoardManagerFiles/tools/arm-gnu-toolchain-12.2.rel1-mingw-w64-i686-arm-none-eabi.zip",
               "host": "i686-mingw32"
             },
             {
