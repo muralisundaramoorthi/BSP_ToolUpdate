@@ -2178,10 +2178,10 @@
         {
           "systems": [
             {
-              "size": "128114174",
-              "checksum": "SHA-256:3a7b031312de4b91728784274087f5ec7cdeb730b24cb3d90a61b3fbda307ac4",
-              "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-win32_2.tar.bz2",
-              "url": "https://github.com/muralisundaramoorthi/BSP_ToolUpdate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-6-2017-q2-update-win32_2.tar.bz2",
+              "size": "131285223",
+              "checksum": "SHA-256:615f9c44d3fba555e1a794b244d483575c45177b70da632dcd6e749ba5741826",
+              "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-win32.zip",
+              "url": "https://github.com/muralisundaramoorthi/BSP_ToolUpdate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-6-2017-q2-update-win32.zip",
               "host": "i686-mingw32"
             },
             {
