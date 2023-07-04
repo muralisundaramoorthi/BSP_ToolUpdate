@@ -2178,7 +2178,7 @@
         {
           "systems": [
             {
-              "size": "129718905",
+              "size": "(129718905",
               "checksum": "SHA-256:ffafad128c9a8e2fe8023ff41ebc9a6ca9503dbe01d871dd07c68e2ba40b9b3f",
               "archiveFileName": "gcc-arm-none-eabi-7-2017-q4-major-win32",
               "url": "https://github.com/muralisundaramoorthi/BSP_ToolUpdate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-7-2017-q4-major-win32.zip",
