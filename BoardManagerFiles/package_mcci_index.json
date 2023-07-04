@@ -2178,10 +2178,10 @@
         {
           "systems": [
             {
-              "size": "94146952",
-              "checksum": "SHA-256:37a19a4b987aeb077c29bcc3854e9cc58210292ab08eb990c4ef945a59d86c0d",
-              "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
-              "url": "https://github.com/mcci-catena/arduino-boards/raw/master/BoardManagerFiles/tools/gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
+              "size": "128114174",
+              "checksum": "SHA-256:3a7b031312de4b91728784274087f5ec7cdeb730b24cb3d90a61b3fbda307ac4",
+              "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-win32_2.tar.bz2",
+              "url": "https://github.com/muralisundaramoorthi/BSP_ToolUpdate/raw/main/BoardManagerFiles/tools/gcc-arm-none-eabi-6-2017-q2-update-win32_2.tar.bz2",
               "host": "i686-mingw32"
             },
             {
